@@ -1,0 +1,3 @@
+if pressedAttack():
+  Attack()
+  DealDamage()
