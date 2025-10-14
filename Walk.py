@@ -1,0 +1,2 @@
+if onGrounded():
+  Walk(dir)
